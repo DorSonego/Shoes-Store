@@ -1,6 +1,6 @@
 ﻿# Shoes-Store
 Responsive Shopping Cart Page using HTML CSS JS
+![image](https://user-images.githubusercontent.com/118439273/210171664-5311c922-9797-48b6-a4e4-34a197acbe59.png)
+![image](https://user-images.githubusercontent.com/118439273/210171634-20cd94f0-1e6c-4775-8955-54c58010a00d.png)
 
-![image](https://user-images.githubusercontent.com/118439273/210171570-1714fc98-5646-4342-bdd6-39cb7780c698.png)
-![image](https://user-images.githubusercontent.com/118439273/210171607-16de47dc-0b55-4700-a97d-cf6f2b62f60b.png)
 
